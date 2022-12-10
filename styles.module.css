@@ -1,0 +1,21 @@
+button {
+    border: none;
+}
+
+.primary {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.secundary {
+    background-color: rgb(80, 205, 255);
+    color: black;
+    font-weight: bold;
+}
+
+.warning {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
